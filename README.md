@@ -1,1 +1,1 @@
-current working directoty
+currently working on directory
